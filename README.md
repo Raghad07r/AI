@@ -1,4 +1,4 @@
-# Project: End-to-End RAG Application
+# Project: RAG 
 
 ## Overview
 This project integrates all three lab tracks into a single production-ready pipeline.
